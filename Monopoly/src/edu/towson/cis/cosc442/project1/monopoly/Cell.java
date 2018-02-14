@@ -1,5 +1,6 @@
 package edu.towson.cis.cosc442.project1.monopoly;
 
+//Adding some chnges in order to keep track in the TASK 15 Commit!
 public abstract class Cell implements IOwnable {
 	private boolean available = true;
 	private String name;
